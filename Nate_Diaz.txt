@@ -1,0 +1,714 @@
+
+
+Res.
+
+Record
+
+Opponent
+
+Method
+
+Event
+
+Date
+
+Round
+
+Time
+
+Location
+
+Notes
+
+
+Loss
+
+20–13
+
+Leon Edwards
+
+Decision (unanimous)
+
+UFC 263
+
+June 12, 2021
+
+5
+
+5:00
+
+Glendale, Arizona, United States
+
+
+
+
+Loss
+
+20–12
+
+Jorge Masvidal
+
+TKO (doctor stoppage)
+
+UFC 244
+
+November 2, 2019
+
+3
+
+5:00
+
+New York City, New York, United States
+
+
+
+
+Win
+
+20–11
+
+Anthony Pettis
+
+Decision (unanimous)
+
+UFC 241
+
+August 17, 2019
+
+3
+
+5:00
+
+Anaheim, California, United States
+
+
+
+
+Loss
+
+19–11
+
+Conor McGregor
+
+Decision (majority)
+
+UFC 202
+
+August 20, 2016
+
+5
+
+5:00
+
+Las Vegas, Nevada, United States
+
+Fight of the Night.
+
+
+Win
+
+19–10
+
+Conor McGregor
+
+Submission (rear-naked choke)
+
+UFC 196
+
+March 5, 2016
+
+2
+
+4:12
+
+Las Vegas, Nevada, United States
+
+Return to Welterweight. Performance of the Night. Fight of the Night.
+
+
+Win
+
+18–10
+
+Michael Johnson
+
+Decision (unanimous)
+
+UFC on Fox: dos Anjos vs. Cerrone 2
+
+December 19, 2015
+
+3
+
+5:00
+
+Orlando, Florida, United States
+
+Fight of the Night.
+
+
+Loss
+
+17–10
+
+Rafael dos Anjos
+
+Decision (unanimous)
+
+UFC on Fox: dos Santos vs. Miocic
+
+December 13, 2014
+
+3
+
+5:00
+
+Phoenix, Arizona, United States
+
+Catchweight (160.5 lb) bout; Diaz missed weight.
+
+
+Win
+
+17–9
+
+Gray Maynard
+
+TKO (punches)
+
+The Ultimate Fighter: Team Rousey vs. Team Tate Finale
+
+November 30, 2013
+
+1
+
+2:38
+
+Las Vegas, Nevada, United States
+
+Knockout of the Night.
+
+
+Loss
+
+16–9
+
+Josh Thomson
+
+TKO (head kick and punches)
+
+UFC on Fox: Henderson vs. Melendez
+
+April 20, 2013
+
+2
+
+3:44
+
+San Jose, California, United States
+
+
+
+
+Loss
+
+16–8
+
+Benson Henderson
+
+Decision (unanimous)
+
+UFC on Fox: Henderson vs. Diaz
+
+December 8, 2012
+
+5
+
+5:00
+
+Seattle, Washington, United States
+
+For the UFC Lightweight Championship.
+
+
+Win
+
+16–7
+
+Jim Miller
+
+Submission (guillotine choke)
+
+UFC on Fox: Diaz vs. Miller
+
+May 5, 2012
+
+2
+
+4:09
+
+East Rutherford, New Jersey, United States
+
+Submission of the Night.
+
+
+Win
+
+15–7
+
+Donald Cerrone
+
+Decision (unanimous)
+
+UFC 141
+
+December 30, 2011
+
+3
+
+5:00
+
+Las Vegas, Nevada, United States
+
+ Fight of the Night.
+
+
+Win
+
+14–7
+
+Takanori Gomi
+
+Submission (armbar)
+
+UFC 135
+
+September 24, 2011
+
+1
+
+4:27
+
+Denver, Colorado, United States
+
+Return to Lightweight. Submission of the Night.
+
+
+Loss
+
+13–7
+
+Rory MacDonald
+
+Decision (unanimous)
+
+UFC 129
+
+April 30, 2011
+
+3
+
+5:00
+
+Toronto, Ontario, Canada
+
+
+
+
+Loss
+
+13–6
+
+Dong Hyun Kim
+
+Decision (unanimous)
+
+UFC 125
+
+January 1, 2011
+
+3
+
+5:00
+
+Las Vegas, Nevada, United States
+
+
+
+
+Win
+
+13–5
+
+Marcus Davis
+
+Technical Submission (guillotine choke)
+
+UFC 118
+
+August 28, 2010
+
+3
+
+4:02
+
+Boston, Massachusetts, United States
+
+Fight of the Night.
+
+
+Win
+
+12–5
+
+Rory Markham
+
+TKO (punches)
+
+UFC 111
+
+March 27, 2010
+
+1
+
+2:47
+
+Newark, New Jersey, United States
+
+Return to Welterweight; Markham missed weight (177 lb).
+
+
+Loss
+
+11–5
+
+Gray Maynard
+
+Decision (split)
+
+UFC Fight Night: Maynard vs. Diaz
+
+January 11, 2010
+
+3
+
+5:00
+
+Fairfax, Virginia, United States
+
+
+
+
+Win
+
+11–4
+
+Melvin Guillard
+
+Submission (guillotine choke)
+
+UFC Fight Night: Diaz vs. Guillard
+
+September 16, 2009
+
+2
+
+2:13
+
+Oklahoma City, Oklahoma, United States
+
+Submission of the Night.
+
+
+Loss
+
+10–4
+
+Joe Stevenson
+
+Decision (unanimous)
+
+The Ultimate Fighter: United States vs. United Kingdom Finale
+
+June 20, 2009
+
+3
+
+5:00
+
+Las Vegas, Nevada, United States
+
+Fight of the Night.
+
+
+Loss
+
+10–3
+
+Clay Guida
+
+Decision (split)
+
+UFC 94
+
+January 31, 2009
+
+3
+
+5:00
+
+Las Vegas, Nevada, United States
+
+Fight of the Night.
+
+
+Win
+
+10–2
+
+Josh Neer
+
+Decision (split)
+
+UFC Fight Night: Diaz vs. Neer
+
+September 17, 2008
+
+3
+
+5:00
+
+Omaha, Nebraska, United States
+
+Fight of the Night.
+
+
+Win
+
+9–2
+
+Kurt Pellegrino
+
+Submission (triangle choke)
+
+UFC Fight Night: Florian vs. Lauzon
+
+April 2, 2008
+
+2
+
+3:06
+
+Broomfield, Colorado, United States
+
+Submission of the Night.
+
+
+Win
+
+8–2
+
+Alvin Robinson
+
+Submission (triangle choke)
+
+UFC Fight Night: Swick vs. Burkman
+
+January 23, 2008
+
+1
+
+3:39
+
+Las Vegas, Nevada, United States
+
+Submission of the Night.
+
+
+Win
+
+7–2
+
+Junior Assunção
+
+Submission (guillotine choke)
+
+UFC Fight Night: Thomas vs. Florian
+
+September 19, 2007
+
+1
+
+4:10
+
+Las Vegas, Nevada, United States
+
+
+
+
+Win
+
+6–2
+
+Manvel Gamburyan
+
+TKO (shoulder injury)
+
+The Ultimate Fighter 5 Finale
+
+June 23, 2007
+
+2
+
+0:20
+
+Las Vegas, Nevada, United States
+
+Won The Ultimate Fighter 5 Lightweight Tournament.
+
+
+Loss
+
+5–2
+
+Hermes França
+
+Submission (armbar)
+
+WEC 24
+
+October 12, 2006
+
+2
+
+2:46
+
+Lemoore, California, United States
+
+For the WEC Lightweight Championship.
+
+
+Win
+
+5–1
+
+Dennis Davis
+
+Submission (keylock)
+
+Warrior Cup 1
+
+August 12, 2006
+
+1
+
+2:00
+
+Stockton, California, United States
+
+Won the inaugural WC Lightweight Championship.
+
+
+Win
+
+4–1
+
+Joe Hurley
+
+Submission (triangle choke)
+
+WEC 21
+
+June 15, 2006
+
+2
+
+2:03
+
+Highland, California, United States
+
+Catchweight (160 lb) bout.
+
+
+Win
+
+3–1
+
+Gilbert Rael
+
+TKO (punches)
+
+WEC 20
+
+May 5, 2006
+
+1
+
+3:35
+
+Lemoore, California, United States
+
+
+
+
+Win
+
+2–1
+
+Tony Juares
+
+TKO (punches)
+
+Strikeforce: Shamrock vs. Gracie
+
+March 10, 2006
+
+1
+
+3:23
+
+San Jose, California, United States
+
+Return to Lightweight.
+
+
+Loss
+
+1–1
+
+Koji Oishi
+
+Decision (unanimous)
+
+Pancrase: 2005 Neo-Blood Tournament Finals
+
+August 27, 2005
+
+3
+
+5:00
+
+Tokyo, Japan
+
+Welterweight debut.
+
+
+Win
+
+1–0
+
+Alejandro Garcia
+
+Submission (triangle choke)
+
+WEC 12
+
+October 21, 2004
+
+3
+
+2:17
+
+Lemoore, California, United States
+
+Lightweight debut.
